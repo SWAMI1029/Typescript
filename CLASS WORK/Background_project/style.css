@@ -1,0 +1,60 @@
+/* body{
+    background-color: rgb(229, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#grandparent{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#parent{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#child{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+
+} */
+
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#orange{
+    background-color: orange;
+}
+#green{
+    background-color: green;
+}
+#purple{
+    background-color: purple;
+}
