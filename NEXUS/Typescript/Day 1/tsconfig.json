@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target":"es5",
+        "outDir": "Output js",
+        "sourceMap": true
+    },
+    "files": [
+        "first.ts",
+        "second.ts",
+        "Day_1.ts"
+    ]
+}
